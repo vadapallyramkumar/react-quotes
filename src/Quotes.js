@@ -17,7 +17,8 @@ function Quotes() {
     }
 
     const backgroundColor = {
-        background: "#d7d7d7"
+        background: "#000",
+        color: 'white'
     }
 
     return (

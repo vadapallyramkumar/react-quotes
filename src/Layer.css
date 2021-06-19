@@ -14,6 +14,7 @@
     justify-content: center;
     margin: 0.5%;
     font-family: 'Lato', sans-serif;
+    border-radius: 5px;
 }
 
 @media screen and (max-width: 320px) {
